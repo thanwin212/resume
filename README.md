@@ -13,7 +13,7 @@ Certified Scrum Product Owner with more than seven years of experience in projec
 
 ### Business Support Executive, Tecon SES, Dubai
 Aug 2023 – Present
-- specialize in PMO implementation, business process analysis, mapping, and effective project management.
+- Specialize in PMO implementation, business process analysis, mapping, and effective project management.
 - My expertise lies in streamlining operations, enhancing project efficiency, and optimizing business processes to achieve organizational goals.
 
 ### Technical & Commercial Coordinator, Lime Concepts, Dubai
