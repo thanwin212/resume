@@ -1,7 +1,10 @@
 # resume
 My professional resume and portfolio.
 # Than Win.
-Certified Scrum Product Owner with more than seven years of experience in project management, fintech product management, mobile app development, financial process improvement, business and system analysis, digital transformation, stakeholder management, and financial service designing. An experienced professional responsible for any tasks undertaken. Excellent at collaborating with functional teams to achieve goals with excellence.
+Certified Scrum Product Owner (CSPO) with over seven years of experience in project
+management, fintech & financial product management, and digital transformation. Expertise in
+stakeholder management, financial process improvement, and team collaboration. Entrepreneurial
+mindset with a strong focus on effective communication and decisive leadership.
 
 ## Strengths
 - Entrepreneurship mindset and can work from a granular level.
@@ -13,28 +16,50 @@ Certified Scrum Product Owner with more than seven years of experience in projec
 
 ### Business Support Executive, Tecon SES, Dubai
 Aug 2023 – Present
-- Specialize in PMO implementation, business process analysis, mapping, and effective project management.
-- My expertise lies in streamlining operations, enhancing project efficiency, and optimizing business processes to achieve organizational goals.
-
-### Technical & Commercial Coordinator, Lime Concepts, Dubai
-May 2022 – Jul 2023
-- Analyze customer shopping data to optimize sales strategies, collaborated with cross-functional teams to enhance Microsoft Dynamics System features, and employed BI tools for data-driven decision-making.
-- Additionally, I consistently provided detailed reports and data-driven insights to account managers and senior management, contributing to improved sales performance
+- Implemented PMO and assisted in developing Kaizen business improvement framework in the
+organization.
+- Managed project plans using MS Project Management Tool and Trello, ensuring adherence to
+timelines and budgets.
+- Fostered collaboration among cross-functional teams and communicated progress to
+stakeholders.
+- Developed project management standards and procedures, providing regular updates to
+stakeholders.
+- Conducted researches and opportunity analysis for various industries from scratch by
+analyzing market data and interviews.
 
 ### Technical Product Owner, Get All Myanmar, Yangon (Fintech)
 Feb 2021 - Dec 2021
-- Executed strategic product initiatives to drive company growth, leveraging agile methodologies and the Scrum framework for effective product delivery.
-- My contributions included significant cost savings, feature development, and meticulous backlog management, ultimately achieving product-market fit and fostering a high-performing team of product managers and business analysts.
+- Created product vision and streamlined product features based on the collected user stories
+from researches and from stakeholders.
+- Worked on the product P&L analysis and carried out the product enhancement activities with
+agile team and used scrum framework for effective sprint management and product delivery.
+- Worked on product backlog grooming, sprint planning, product road mapping and provided
+wireframes to developers.
+- Planned and executed the end-to-end agile product delivery and defined MVPs for Fintech
+app and in-house ERP solution by collaborating with management, UI/UX and cross-teams.
+- Managed the product backlog and used adaptable prioritizing methodology for the list of user
+stories.
+- Prepared and executed the test cases to meet the definition of done.
 
 ### Product Manager, Proximity Designs, Yangon (Financial Service)
 Dec 2017 - Dec 2020
-- Designed user-centric loan products, collaborated with agile teams, and streamlined business processes to enhance loan origination and core banking functions.
-- This resulted in significant reductions in paperwork, operating costs, and credit assessment time, contributing to more efficient and customer-centric loan services.
+- Designed user-centric loan products and conducted research, prototyping, delivering, and
+evaluation.
+- Developed loan origination process flows and documented product manual and SOPs.
+- Day to day collaboration with agile team for product features development and functional
+teams to collect user stories and writing the BRD document.
+- Worked on core banking digital transformation project and led the cross functional team for
+business process re-engineering using Phase-Gate model.
+- Conducted user research and loan P&L analysis, co-created the agriculture financing credit
+scoring tool, which resulted in a 40% reduction in credit assessment time.
 
 ### Product Manager, Red dot Network, Yangon (Fintech)
 Mar 2015 - Nov 2017
-- Employed strategic tactics to boost market competitiveness, achieving a substantial 20% increase in sales.
-- Conducted product launches, promotional campaigns, UI enhancements, and efficient payment processing.
+- Drove competitive market strategies resulting in a 20% increase in sales through product
+launches.
+- Developed payment processing flows and conducted UAT tests for product usability
+enhancements.
+- Defined market requirements and collaborated with business partners for product development.
 
 ## Education
 
@@ -56,6 +81,16 @@ Mar 2015 - Nov 2017
 - Interest: Designing agriculture financing products, fintech app development, business analysis, ERP system analysis, digital transformation, and process improvement.
 
 ## Trainings, Licenses & Certifications
+
+- Certified Scrum Product Owner (CSPO) – 1504601-CSPO
+  - Scrum Alliance 2021
+
+- Professional Scrum Master I (PSM I)
+  - Navesse Training 2021
+
+- Project Management Professional
+  - Strategy First Institute 2016
+    
 - Power BI: (Data Analysis and Data Modeling)
   - Pragmatic 2022
 
@@ -65,17 +100,11 @@ Mar 2015 - Nov 2017
 - Digital Transformation & Business Analyst
   - LinkedIn Learning 2022
 
-- Certified Scrum Product Owner (CSPO) – 1504601-CSPO
-  - Scrum Alliance 2021
-
 - Master Digital Product Design (UX Research & UI Design)
   - Udemy 2021
 
-- Professional Scrum Master I (PSM I)
-  - Navesse Training 2021
 
-- Project Management Professional
-  - Strategy First Institute 2016
  
-resume here in pdf - [Than Win_Resume_OCT23.pdf](https://github.com/thanwin212/resume/files/13249888/Than.Win_Resume_OCT23.pdf)
+resume here in pdf - [Than Win_Resume_AUG24.pdf](https://github.com/user-attachments/files/16590639/Than.Win_Resume_AUG24.pdf)
+
 
