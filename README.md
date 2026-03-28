@@ -1,110 +1,93 @@
-# resume
-My professional resume and portfolio.
-# Than Win.
-Certified Scrum Product Owner (CSPO) with over seven years of experience in project
-management, fintech & financial product management, and digital transformation. Expertise in
-stakeholder management, financial process improvement, and team collaboration. Entrepreneurial
-mindset with a strong focus on effective communication and decisive leadership.
+#THAN WIN
 
-## Strengths
-- Entrepreneurship mindset and can work from a granular level.
-- Effective communication with business team and stakeholder management.
-- Collaborative and decisive leadership style.
-- Democratic approach with co-workers and subordinates.
+Program Manager | Project Manager | Technical Product Owner | Product Manager | Specialized in Fintech & Financial Services | Digital Transformation | Process Engineering | Agile & Scrum Practitioner
+Dubai, UAE • +971503830744 • thanwin.cspo@gmail.com • LinkedIn
 
-## Work Experience
+Certified Scrum Master (CSM®) | Scrum Product Owner (CSPO®) | Project Management | AI Product Management | Manage Agile Team
 
-### Business Support Executive, Tecon SES, Dubai
-Aug 2023 – Present
-- Implemented PMO and assisted in developing Kaizen business improvement framework in the
-organization.
-- Managed project plans using MS Project Management Tool and Trello, ensuring adherence to
-timelines and budgets.
-- Fostered collaboration among cross-functional teams and communicated progress to
-stakeholders.
-- Developed project management standards and procedures, providing regular updates to
-stakeholders.
-- Conducted researches and opportunity analysis for various industries from scratch by
-analyzing market data and interviews.
+#PROFESSIONAL SUMMARY
 
-### Technical Product Owner, Get All Myanmar, Yangon (Fintech)
-Feb 2021 - Dec 2021
-- Created product vision and streamlined product features based on the collected user stories
-from researches and from stakeholders.
-- Worked on the product P&L analysis and carried out the product enhancement activities with
-agile team and used scrum framework for effective sprint management and product delivery.
-- Worked on product backlog grooming, sprint planning, product road mapping and provided
-wireframes to developers.
-- Planned and executed the end-to-end agile product delivery and defined MVPs for Fintech
-app and in-house ERP solution by collaborating with management, UI/UX and cross-teams.
-- Managed the product backlog and used adaptable prioritizing methodology for the list of user
-stories.
-- Prepared and executed the test cases to meet the definition of done.
+Certified Scrum Master (PSM I) and Product Owner (CSPO) with 12+ years of experience across fintech, banking, and financial services. Forward-thinking Product Owner/Product Manager with strong expertise in end-to-end product planning, ideation, design thinking, backlog and scope management, and strategy execution. Proven track record in business requirements gathering, problem analysis, market research, and successful product launches. 
+Experienced in managing and delivering complex initiatives including KYC, KYB, AML, payment gateways, card payments, acquirer integrations, cross-border payments, open finance, and payment interoperability. Highly skilled in Agile delivery, stakeholder management, regulatory compliance, and risk mitigation, consistently delivering high-quality solutions aligned with CBUAE and global regulatory standards.
 
-### Product Manager, Proximity Designs, Yangon (Financial Service)
-Dec 2017 - Dec 2020
-- Designed user-centric loan products and conducted research, prototyping, delivering, and
-evaluation.
-- Developed loan origination process flows and documented product manual and SOPs.
-- Day to day collaboration with agile team for product features development and functional
-teams to collect user stories and writing the BRD document.
-- Worked on core banking digital transformation project and led the cross functional team for
-business process re-engineering using Phase-Gate model.
-- Conducted user research and loan P&L analysis, co-created the agriculture financing credit
-scoring tool, which resulted in a 40% reduction in credit assessment time.
+#PROJECT HIGHLIGHTS
 
-### Product Manager, Red dot Network, Yangon (Fintech)
-Mar 2015 - Nov 2017
-- Drove competitive market strategies resulting in a 20% increase in sales through product
-launches.
-- Developed payment processing flows and conducted UAT tests for product usability
-enhancements.
-- Defined market requirements and collaborated with business partners for product development.
+•	KYC (Customer Onboarding) and KYB (Business Onboarding): Led end-to-end program delivery, enabling compliant digital onboarding aligned with CBUAE and global regulatory standards.
+•	AML Compliance Integrations: Managed integrations covering transaction monitoring, transaction screening, sanctions screening, and risk assessment, improving audit readiness and regulatory adherence. Reduced false positives by 80% and streamlined role-based access approval processes.
+•	Open Finance: Drove rapid adoption of central bank mandates and successfully executed the first open finance transaction in the UAE.
 
-## Education
+•	Agile and Hybrid Delivery Models: Facilitated sprint ceremonies, backlog management, and cross-functional collaboration, improving delivery efficiency by 25%.
 
-- Bachelor of Business Administration – Business Management
-  - Oct 2007-Nov 2010
-  - Yangon Institute of Economics, Yangon
+•	Risk Management, Governance, and Documentation Frameworks: Implemented structured product delivery frameworks, reducing delivery risk and ensuring compliance with regulatory and audit requirements.
+•	Digital Banking and Financial Services Transformation: Achieved measurable outcomes including 30% user adoption growth, 20% cost reduction, and 40% improvement in processing time.
+•	Kaizen Phase-Gate Model: Streamlined business operations using the Phase-Gate model, eliminating non-value-added steps and improving process efficiency by 30%, reducing costs by 20%, and cutting paperwork by 40%.
 
-- Navigating Startup Eco-system – Entrepreneurship
-  - Nov 2021-Dec 2021
-  - Fulbright University Vietnam, Vietnam (Funded by USAID)
+#CORE COMPETENCIES / SKILLS
 
-## Skills and Interests
-- Deep understanding of service design and blueprint, user-centric financial credit product design, mobile app development, fintech features design and improvement, and ERP system architecture.
-- Expert knowledge in design thinking, product and service prototyping, analytical, defining 4Ps, 7Ps structures, research methodologies, and defining product risk and success evaluation.
-- Agile, Scrum framework, and waterfall approach for product development and project management, experience in app development mockups, wireframes, UI/UX approach, UAT, and Testing (A/B).
-- Proven Business and System Analysis in digital transformation and business process improvement.
-- Experience in dashboard design, BI implementations, Power BI, JIRA, Microsoft Suites, Trello, Figma, Adobe XD, Excel, Miro, Draw.io, Photoshop, and excellent presentation skill.
-- Startup hands-on experience: stakeholder management, issue research, ideation, implementation, Lean Canvas creation and product strategy, backlog grooming, and product road-mapping.
-- Interest: Designing agriculture financing products, fintech app development, business analysis, ERP system analysis, digital transformation, and process improvement.
+FINANCIAL, DATA, GOVERNANCE & COMPLIANCE: Regulatory & Financial Compliance (AML/KYC/KYB) | Operational Process | Contract Negotiation | Vendor Management | Enterprise Change Management | Stakeholder Reporting | Loan Origination Process | Design Thinking | Impact Analysis | Digital Transformation | Data Restructuring | Data Modelling | Data Analytics
+PROGRAM & PORTFOLIO EXCELLENCE: Enterprise-scale Program & Portfolio Management | Scaled Agile Framework  | Agile (Scrum, Kanban) | Waterfall | Value Stream Mapping | Benefits Realization & KPI Optimization | Work Breakdown Structure (WBS) and Gantt Charts | Scope Management | Schedule Management | Resource Management | Incident, Change & Risk Mitigation Management | Project Documentation | Stakeholder Coordination & Reporting | Release Planning | Strategic Planning | Process Control & Management 
+TOOLS & TECHNOLOGY PROFICIENCY: Microsoft Project | JIRA | Confluence | Trello | Microsoft 365 For Enterprise | Power BI Dashboards | Miro | Figma | Adobe XD | Visio  | SAP Signavio 
+FINTECH PRODUCT SPECIALIZATION: Core Banking (Musoni Cloud Solution) | Digital Wallet | Regulatory & Financial Compliance (AML/KYC/KYB) | UAE FTS & SWIFT Payment Gateways | Payments Acceptance Solutions (QR Code / USSD) | Open Banking APIs | Business Process Re-engineering | Kaizen Value Stream Analysis | Wireframing | UAT Testing | API Integration | Business Requirements Gathering | Software Lifecycle Management
 
-## Trainings, Licenses & Certifications
+#CERTIFICATIONS & LICENSES
 
-- Certified Scrum Product Owner (CSPO) – 1504601-CSPO
-  - Scrum Alliance 2021
+Certified Scrum Product Owner (CSPO®) | Scrum Master (CSM®) | Project Management | Power BI: Data Analysis and Data Modeling | Master Digital Product Design (UX Research & UI Design)
 
-- Professional Scrum Master I (PSM I)
-  - Navesse Training 2021
+#EDUCATION
 
-- Project Management Professional
-  - Strategy First Institute 2016
-    
-- Power BI: (Data Analysis and Data Modeling)
-  - Pragmatic 2022
+•	Bachelor of Business Administration | Yangon Institute of Economics, Yangon (2010)
 
-- SQL Server
-  - Udemy 2022
+•	Navigating Startup Ecosystem, Fulbright | Fulbright University Vietnam (Funded by USAID) (2021)
 
-- Digital Transformation & Business Analyst
-  - LinkedIn Learning 2022
+#PROFESSIONAL EXPERIENCE
 
-- Master Digital Product Design (UX Research & UI Design)
-  - Udemy 2021
+Global Program Manager – Fintech | Pay Ten Payment Service Provider LLC, Dubai
+
+Oct 2024 – Present
+
+•	Managed regulatory compliance programs including KYC, KYB, AML sanctions screening, and transaction monitoring, ensuring ongoing adherence to CBUAE regulations and standards.
+•	Lead Agile and hybrid delivery models by facilitating sprint ceremonies and coaching cross-functional teams, improving delivery efficiency by 25% and accelerating releases of customer wallet, open banking development, payment acceptance solutions, remittance, bill payment, and merchant portal. 
+•	Drive cross-departments collaboration across Product, Engineering, QA, Compliance, Risk, Sales and Operations to deliver scalable payment gateway and digital wallet solutions, enhancing customer onboarding speed and transaction reliability.
+•	Established and maintain proactive risk management, governance, and documentation frameworks, reducing program delivery risk and ensuring continuous audit readiness and regulatory reporting.
+•	Enhance and standardize product development and program management processes, building a PMO framework that provides end-to-end visibility, dependency tracking, and delivery governance across multiple projects.
 
 
- 
-resume here in pdf - [Than Win_Resume_AUG24.pdf](https://github.com/user-attachments/files/16590639/Than.Win_Resume_AUG24.pdf)
 
 
+#Lead Technical Product Owner – Fintech | Get Myanmar, Yangon
+
+Feb 2021 – Dec 2021
+
+•	Led end-to-end product ownership and Agile delivery of a fintech application and ERP control platform. Oversaw product strategy, ensuring alignment of vision plan, MVP definition, roadmap planning, and backlog prioritization.
+•	Defined and translated business, regulatory, and technical requirements into user stories and acceptance criteria.
+•	Partnered closely with UX/UI designers, engineering teams, and senior stakeholders to design and launch scalable fintech features, driving a 30% increase in user adoption in the initial release.
+•	Owned UAT planning, test case validation, and release readiness, ensuring adherence to Definition of Done and reducing production defect leakage by 20%.
+•	Facilitated Agile ceremonies (sprint planning, backlog grooming, reviews, retrospectives) and acted as the primary liaison between business, technology, and operations, enabling predictable delivery, risk management, and continuous product improvement.
+
+#Product Manager – Financial Service | Proximity Designs, Yangon
+
+Dec 2017 – Dec 2020
+
+•	Led a core banking digital transformation program using the Phase-Gate model, streamlining loan origination processes, reducing operational costs by 20%, and cutting paperwork by 40%.
+•	Designed and launched user-centric financial products, including an agriculture credit scoring solution that reduced credit assessment time by 40% and improved customer turnaround.
+•	Authored Business Requirement Documents (BRDs), SOPs, and functional specifications, translating business and regulatory needs into actionable product requirements.
+•	Coordinated closely with cross-functional teams to ensure smooth and timely product delivery.
+•	Partnered with compliance and risk teams to ensure products met regulatory, audit, and governance standards.
+
+#Product Manager – Fintech | Red Dot Network, Yangon
+
+Mar 2015 – Nov 2017
+
+•	Launched payment processing and transaction management solutions, optimizing transaction flows and driving a 20% increase in sales through improved product performance and market penetration.
+•	Defined market and business requirements and collaborated with acquiring banks, payment partners, and merchants to develop innovative fintech products.
+•	Led UAT and usability testing, improving payment platform customer experience scores by 15%.
+•	Executed competitive market and product strategies, delivering new fintech features that strengthened market share within Myanmar’s mobile payments ecosystem.
+
+#Business Support Executive | Tecon SES, Dubai
+
+Aug 2023 – Sept 2024
+
+•	Supported the Kaizen business improvement framework, streamlining supplier and distribution processes and reducing operational bottlenecks.
+•	Managed project plans and PMO deliverables using MS Project, Trello, and Excel, achieving 100% on-time reporting and improved delivery tracking.
+•	Coordinated cross-functional teams and stakeholders, ensuring alignment across departments and enhancing reporting visibility for senior management.
+•	Conducted industry research and opportunity analysis, delivering data-driven insights that informed strategic investment decisions within the engineering and chemical sectors.
