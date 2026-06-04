@@ -77,7 +77,7 @@ Feb 2021 – Dec 2021
 
 Dec 2017 – Dec 2020
 
-• Led a core banking digital transformation program using a Phase-Gate delivery model, analyzing existing loan origination workflows and streamlining processes, resulting in a 40% reduction in manual processing activities and a 30% improvement in loan processing turnaround time.
+• Led a core banking digital transformation program using a Phase-Gate delivery model, analyzing existing loan origination workflows and streamlining processes, resulting in a 30% reduction in manual processing activities, 20% improvement in loan processing turnaround time, cost reduction in 10% and customer retention rate increased in 20%.
 • Designed and launched user-centric financial products, including agricultural loan offerings, by gathering and analyzing business requirements through stakeholder workshops, customer field research, and management consultations, contributing to a 20% increase in loan portfolio growth.
 • Collaborated with cross-functional stakeholders, including implementation teams and business units, to elicit, validate, and document business and functional requirements for over 15 system enhancement and product development initiatives.
 • Partnered with implementation teams and external vendors to design and implement a credit scoring solution, reducing credit assessment time from 3 days to 1 day and improving customer turnaround efficiency.
@@ -100,7 +100,6 @@ Mar 2015 – Nov 2017
 • Led User Acceptance Testing (UAT) and usability testing by defining test scenarios, validating system behavior against requirements, and ensuring quality, reliability, and integrity of the payment platform prior to production release.
 • Developed user guides, product documentation, and training materials, and conducted knowledge-sharing sessions for internal teams and external stakeholders to support effective system adoption.
 • Conducted market analysis and competitive research to support product strategy and feature prioritization, strengthening product positioning within Myanmar’s mobile payments ecosystem.
-
 • Acted as a key liaison between business stakeholders and technical teams, providing ongoing clarification, guidance, and support throughout the product lifecycle to enable informed decision-making and smooth delivery.
 
 
